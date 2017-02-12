@@ -1,22 +1,21 @@
 ## Project Name:  Expense Calculator Application
 
-### Course Title:
+## Course Title:
 LIS 2360:  Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+## Assignment Date:  
+(Feb 10, 2017)
 
-### Student Name:  
-(First and Last Name)
+## Student Name:  
+(Peter Strouss)
 
-### Project Description:
-(In your own words, briefly describe the assignment.)
+## Project Description:
+(Learning the process and some real-world applications of JavaScript.)
 
-### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+## View Project:
+(https://github.com/peterstrouss/lesson4_javascript1)
 
-### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+## Lessons Learned in the Assignment:
+1. (How to track and store information with variables in JavaScript.)
+2. (The basics of how to use JavaScript and some potential for its use.)
+3. (How to use JavaScript to work and modify an expense calculator.)
